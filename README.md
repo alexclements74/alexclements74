@@ -1,6 +1,6 @@
 ### Hey, I'm Alex! 👋
 
-I'm a Computer Engineering student currently enrolled at the University of Ottawa!
+I'm a Computer Science student currently enrolled at the University of Ottawa!
 
 You can check out my personal website :arrow_right: [here](https://alexclements74.github.io/)
 
